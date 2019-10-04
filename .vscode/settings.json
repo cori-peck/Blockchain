@@ -4,5 +4,7 @@
         "titleBar.activeBackground": "#40299E",
         "titleBar.activeForeground": "#FAF9FD"
     },
-    "python.pythonPath": "/Users/briandoyle/.local/share/virtualenvs/redo_bc_starter-LKhtEYjl/bin/python"
+    "python.pythonPath": "C:\\Users\\Cori\\.virtualenvs\\L-LtsbVKrP\\Scripts\\python.exe",
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true
 }
